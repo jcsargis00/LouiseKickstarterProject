@@ -37,6 +37,6 @@ For example:
 * City location in addition to Country, would this change trends?
 
 ## Possible tables and/or graphs to create and analyze
-- Campaigns duration varied greatly, from 1 day to 90.  Charts featuring analysis of campaign length versus success/failure/live/cancelled 
-- Different types of charts to show Outcomes based on Goals, such as a stacked column
-- Cluster charts to show more variables
+- Campaigns duration varied greatly, from 1 day to 90.  Charts featuring analysis of campaign length versus success/failure/live/cancelled.
+- Different types of charts to show Outcomes based on Goals, such as a stacked column.
+- Cluster charts to show more variables.
