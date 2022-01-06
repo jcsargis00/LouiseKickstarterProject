@@ -31,8 +31,8 @@ Some of the challenges included organizing and filtering the data, getting the a
 Rather than call it a limitation, a request for additional data if available, could prove informative.  
 For example: 
 * The most recent data is from 2017.  It would be of interest to find more current data, to see if trends are the same now. A lot has happened since 2017, like a pandemic.
-* Genre and themes of plays, to look for trends of success or failure
-* Demographic data (age, sex, income, etc.) of people attending plays and also demographics of backers, to look for trends
+* Genre and themes of plays, to look for trends of success or failure.
+* Demographic data (age, sex, income, etc.) of people attending plays and also demographics of backers, to look for trends.
 * Star power (famous actors), budget for each production, does this effect goal amounts and ability to attract backers, is this why a few expensive campaigns were successful?
 * City location in addition to Country, would this change trends?
 
