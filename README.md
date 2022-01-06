@@ -1,5 +1,5 @@
 # Analyzing Data to Predict Success or Failure of Kickstarter Fundraising Campaigns with a particular interest in Theater and Plays
-Data driven analysis on Kickstarter campaign datasets to look for specific variables that make campaigns successful
+Data driven analysis on Kickstarter campaign datasets to look for specific variables that make campaigns successful.
 ## Overview of Project and Purpose for Data Analysis
 Louise's play *Fever's* Kickstarter fundraising campaign was close to successful, but not in the short amount of time she allowed.  Jer funding goal is $10000, based on her budget. The purpose of this analysis is to determine what variables were in common in successful, failed, live and cancelled campaigns.  The data set analyzed is comprised of Kickstarter data from 4100 campaigns launched between May 2009 and March 2017.  This study specifically investigate campaign outcomes based on launch date and funding goal amounts.  The goal is to provide Louise with a better understanding of factors leading to a successful campaign.
 
