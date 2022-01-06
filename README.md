@@ -19,7 +19,7 @@ Some of the challenges included organizing and filtering the data, getting the a
 * Timing of the start of the campaign was an important factor.
 * May had the most successful campaigns (234 successful), with June a close 2nd (211 successful).
 * Failed campaigns happened year round, with May, June, July and October, having the highest number of failed campaigns, with 149, 147, 150 and 149  failed campaigns respectively.
-* May is the best month  to launch with a high number of successful campaigna AND a relatively lower number of failed campaigns (126).  June had a high number of failure campaigns (147) along with the high number of successful campaigns (147).
+* May is the best month  to launch with a high number of successful campaigna AND a relatively lower number of failed campaigns (126).  June had a high number of failed campaigns (147) along with the high number of successful campaigns (147).
 * December had a medium number of failures together with a low number of successes, making it a riskier choice as a month to start a campaign.
 
 ###  Conclusions about the Outcomes based on Goals
