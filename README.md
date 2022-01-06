@@ -28,7 +28,7 @@ Some of the challenges included organizing and filtering the data, getting the a
 * Expensive campaigns can be successful.  There were 9 expensive campaigns with goals between $35000 and 45000 with a 67% success rate.  Campaigns over $50000 had a success rate of 13%, with 14 out of 16 campaigns failing.
 
 ## Summary of Limitations of the Dataset
-Rather than call it a limitation, a request for additional data if it could be found could prove informative.  
+Rather than call it a limitation, a request for additional data if available, could prove informative.  
 For example: 
 * The most recent data is from 2017.  It would be of interest to find more current data, to see if trends are the same now. A lot has happened since 2017, like a pandemic.
 * Genre and themes of plays, to look for trends of success or failure
